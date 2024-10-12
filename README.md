@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/bdd048cd4ea6522f51149120dd4e03eb100791df5cb924cc36742cd0dd6bddb4/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d7166714e746730352d2d2f635f696d616767615f7363616c652c665f6175746f2c666c5f70726f67726573736976652c685f3432302c715f6175746f2c775f313030302f68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f6f787465357276306630646d6365626d387072652e706e67)
 <h1 align="center">Hi 👋, I'm Rishika</h1>
 <h3 align="center">A passionate developer from India 🇮🇳</h3>
-
+<img align="right" alt="coding" width="400" src="https://tenor.com/view/coding-girl-gif-2332171326726785246.gif">
 <p align="left"> <a href="https://twitter.com/rishikajal362" target="blank"><img src="https://img.shields.io/twitter/follow/rishikajal362?logo=twitter&style=for-the-badge" alt="rishikajal362" /></a> </p>
 
 - 🌱 I’m currently exploring **Artificial Intelligence, Machine Learning, Deep Learning, Three,js**
